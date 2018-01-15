@@ -1,0 +1,21 @@
+#header-block {
+  background-color: yellow;
+}
+
+#brand {
+  font-size:1.6em;
+  font-weight:600;
+}
+
+#collapsable-nav {
+  clear: left;
+}
+
+.high-text-block {
+  height: 1000px;
+  background-color: beige;
+  border: 1px solid brown;
+  color: black;
+  margin: 25px 0 25px;
+  padding-right: -15px;
+}
